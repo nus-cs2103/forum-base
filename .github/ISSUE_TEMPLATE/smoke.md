@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 * Link to JAR file:
+* Link to the User Guide:
 * Which OS'es to test on: Windows | Mac | Linux
 * Things to check specifically:
 
